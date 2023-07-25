@@ -1,0 +1,10 @@
+* avl-tree
+
+Mirror of https://git.mfiano.net/mfiano/avl-tree
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/avl-tree.git   |
+| commit  | {"messa  |
+| systems | avl-tree |
+|---------+-------------------------------------------|
+
